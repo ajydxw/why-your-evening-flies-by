@@ -11,3 +11,4 @@ out/
 renders/
 *.mp4
 *.wav
+!**/bgm.wav

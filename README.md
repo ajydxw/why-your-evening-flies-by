@@ -10,6 +10,7 @@
 | --- | --- | --- | --- |
 | 《你的夜晚，为什么过得这么快？》 | [`night/`](night/) | Claude Opus 5.5 | 134.19 秒 · 1920 × 1080 · 30 FPS |
 | 《没有盖子的竹篓》 | [`crab-basket/`](crab-basket/) | Claude Opus 5.5 | 134.19 秒 · 1920 × 1080 · 30 FPS |
+| 《越想赢，越会输》 | [`yd-project/`](yd-project/) | Claude Opus 5.5 | 134.2 秒 · 1920 × 1080 · 30 FPS |
 
 以上参数来自各工程原始说明。发布时检查源文件完整性和代码语法，未重新渲染整片或复核与原成片的一致性。
 
@@ -26,5 +27,6 @@
 - 视频创作及源代码生成：**Claude Opus 5.5**。
 - 工程提供与开源发布：[ajydxw](https://github.com/ajydxw)。
 - 源代码及文档采用 [MIT License](LICENSE)。
-- 各工程内的 `bgm.mp3` 是原始压缩包中的用户提供音乐，不包含在代码的 MIT 授权范围内。
+- 各工程内的 `bgm.mp3`、`bgm.wav` 是原始压缩包中的用户提供音乐，不包含在代码的 MIT 授权范围内。
+- 《越想赢，越会输》附带的 Noto Sans SC 字体采用 SIL Open Font License 1.1，见 [`yd-project/OFL.txt`](yd-project/OFL.txt)。
 
