@@ -12,3 +12,5 @@ renders/
 *.mp4
 *.wav
 !**/bgm.wav
+!sunk-cost/audio/out/
+!sunk-cost/audio/out/mix_full.wav

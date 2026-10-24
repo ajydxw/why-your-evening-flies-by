@@ -1,0 +1,11 @@
+{
+  "name": "sunk-cost-fallacy",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "mix": "python3 audio/mix.py full && bash audio/master.sh full",
+    "render": "node tools/render_chunks.mjs",
+    "cover": "node tools/cover.mjs",
+    "render:part1": "remotion render src/index.ts Part1 out/part1_video.mp4 --muted"
+  }
+}
